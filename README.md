@@ -4,14 +4,19 @@ To get the most out of labs be sure to have [Python installed](#installing-pytho
 
 ## Lectures
 
-Coming Soon
+| Speaker | Topic |
+|---------|-------|
+| Dr. David Milling | Ground-based Magnetometers|
+| Dr. Emma Spanswick | All Sky Imagers |
+| Dr. Kathryn McWilliams | SuperDARN |
 
 ## Labs
 
 | Topic | Resources |
 |-------|-----------|
-| GMAG  | [ReadMe](/GMAG/README.md)
-[Coming Soon]
+| GMAG  | [ReadMe](/GMAG/README.md) |
+| aurora-asi-lib |  Coming Soon |
+| UofC ASIs | Coming Soon |
 
 ## Python Resources
 
