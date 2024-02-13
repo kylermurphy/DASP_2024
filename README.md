@@ -8,7 +8,10 @@ Coming Soon
 
 ## Labs
 
-Coming Soon
+| Topic | Resources |
+|-------|-----------|
+| GMAG  | [ReadMe](/GMAG/README.md)
+[Coming Soon]
 
 ## Python Resources
 
