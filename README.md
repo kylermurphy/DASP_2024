@@ -15,6 +15,8 @@ To get the most out of labs be sure to have [Python installed](#installing-pytho
 | Topic | Resources |
 |-------|-----------|
 | GMAG  | [ReadMe](/GMAG/README.md) |
+| GMAG  | Colab Notebook |
+| GMAG  | Local Notebook |
 | aurora-asi-lib |  Coming Soon |
 | UofC ASIs | Coming Soon |
 
