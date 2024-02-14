@@ -1,6 +1,8 @@
 # DASP 2024 Student Day Resources
 
-To get the most out of labs be sure to have [Python installed](#installing-python). If you are unfamiliar with Python and Programming have a look at the [Google Colab Lectures for Starting in Python](#colab-lectures-for-starting-in-python) and the [Python Tutorials](#tutorials)
+The GMAG and aurroa-asi-lib tutorials can be ran in [Google Colab](https://research.google.com/colaboratory/faq.html) without the need for installing a Python distribution. If you are unfamiliar with Python and Programming have a look at the [Google Colab Lectures for Starting in Python](#colab-lectures-for-starting-in-python) and the [Python Tutorials](#tutorials). 
+
+If you want to run the tutorials locally be sure to have [Python installed](#installing-python). 
 
 ## Lectures
 
