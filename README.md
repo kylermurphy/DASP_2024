@@ -18,7 +18,7 @@ If you want to run the tutorials locally be sure to have [Python installed](#ins
 
 | Topic | Resources |
 |-------|-----------|
-| GMAG  | [ReadMe](/GMAG/README.md) |
+| GMAG  | [DASP ReadMe](/GMAG/README.md) |
 | GMAG  | Colab Notebook |
 | GMAG  | Local Notebook |
 | aurora-asi-lib |  Coming Soon |
