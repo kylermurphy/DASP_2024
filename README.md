@@ -19,7 +19,7 @@ If you want to run the tutorials locally be sure to have [Python installed](#ins
 | Topic | Resources |
 |-------|-----------|
 | GMAG  | [DASP ReadMe](/GMAG/README.md) |
-| GMAG  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kylermurphy/DASP_2024/blob/main/GMAG/GMAG_DASP_colab.ipynb) |
+| GMAG  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kylermurphy/DASP_2024/blob/main/GMAG/GMAG_DASP_Colab.ipynb) |
 | GMAG  | Local Notebook |
 | aurora-asi-lib |  Coming Soon |
 | UofC ASIs | Coming Soon |
