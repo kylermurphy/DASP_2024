@@ -27,7 +27,7 @@ If you want to run the tutorials locally be sure to have [Python installed](#ins
 ## Exercises
 | Topic | Links |
 |-------|-------|
-| GMAG  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.comhttps://github.com/kylermurphy/DASP_2024/blob/main/exercises/GMAG_project.ipynb)  |
+| GMAG  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/kylermurphy/DASP_2024/blob/main/exercises/GMAG_project.ipynb)  |
 | GMAG/aurora-asi-lib | Colab |
 
 ## Python Resources
