@@ -1,16 +1,16 @@
 # DASP 2024 Student Day Resources
 
-The GMAG and aurroa-asi-lib tutorials can be ran in [Google Colab](https://research.google.com/colaboratory/faq.html) without the need for installing a Python distribution.
+All tutorials can be run in [Google Colab](https://research.google.com/colaboratory/faq.html) without the need for installing a Python distribution.
 
 If you are unfamiliar with Python and Programming have a look at the [Google Colab Lectures for Starting in Python](#colab-lectures-for-starting-in-python) and the [Python Tutorials](#tutorials). 
 
-If you want to run the tutorials locally be sure to have [Python installed](#installing-python) and follow the instructions for installing [GMAG](/GMAG/README.md#gmag-installation) and [aurora-asi-lib](https://aurora-asi-lib.readthedocs.io/en/latest/get_started.html). 
+If you want to run the tutorials locally be sure to have [Python installed](#installing-python) and follow the instructions for installing the necessary dependencies ([GMAG](/GMAG/README.md#gmag-installation), [aurora-asi-lib](https://aurora-asi-lib.readthedocs.io/en/latest/get_started.html), themis-imager-readfile, rego-imager-readfile, trex-imager-readfile, etc.).
 
 ## Lectures
 
 | Speaker | Topic |
 |---------|-------|
-| Dr. David Milling | Ground-based Magnetometers|
+| Dr. David Milling | Ground-based Magnetometers |
 | Dr. Emma Spanswick | All Sky Imagers |
 | Dr. Kathryn McWilliams | SuperDARN |
 
@@ -22,13 +22,16 @@ If you want to run the tutorials locally be sure to have [Python installed](#ins
 | GMAG  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kylermurphy/DASP_2024/blob/main/GMAG/GMAG_DASP_Colab.ipynb) |
 | GMAG  | [Local Notebook](https://github.com/kylermurphy/DASP_2024/blob/main/GMAG/GMAG_DASP_Local.ipynb) |
 | aurora-asi-lib |  Coming Soon |
-| UofC ASIs | Coming Soon |
+| UofC ASIs | [![Crib Sheet 1 Colab](https://img.shields.io/badge/Open_Crib_Sheet_1_in_Colab-blue)](https://colab.research.google.com/github/ucalgary-aurora/crib-sheets/blob/main/python/_dasp_colabs/DASP2024_load_cal_plot_single_channel_asi_data.ipynb) [![Crib Sheet 2 Colab](https://img.shields.io/badge/Open_Crib_Sheet_2_in_Colab-blue)](https://colab.research.google.com/github/ucalgary-aurora/crib-sheets/blob/main/python/_dasp_colabs/DASP2024_georeferencing_multi_channel_asi_data.ipynb) [![Crib Sheet 3 Colab](https://img.shields.io/badge/Open_Crib_Sheet_3_in_Colab-blue)](https://colab.research.google.com/github/ucalgary-aurora/crib-sheets/blob/main/python/_dasp_colabs/DASP2024_georeferencing_single_channel_asi_data.ipynb) [![Crib Sheet 4 Colab](https://img.shields.io/badge/Open_Crib_Sheet_4_in_Colab-blue)](https://colab.research.google.com/github/ucalgary-aurora/crib-sheets/blob/main/python/_dasp_colabs/DASP2024_georeferencing_multi_channel_asi_data.ipynb) [![Crib Sheet 5 Colab](https://img.shields.io/badge/Open_Crib_Sheet_5_in_Colab-blue)](https://colab.research.google.com/github/ucalgary-aurora/crib-sheets/blob/main/python/_dasp_colabs/DASP2024_multi_network_mosaic.ipynb) |
+| UofC ASIs | [Local notebooks](https://data.phys.ucalgary.ca/working_with_data/index.html#crib-sheets) |
 
 ## Exercises
+
 | Topic | Links |
 |-------|-------|
 | GMAG  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kylermurphy/DASP_2024/blob/main/exercises/GMAG_project.ipynb)  |
-| GMAG/aurora-asi-lib | Colab |
+| aurora-asi-lib | Colab |
+| UofC ASIs | [![Crib Sheet 5 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ucalgary-aurora/crib-sheets/blob/main/python/_dasp_colabs/DASP2024_exercises.ipynb) |
 
 ## Python Resources
 
@@ -40,7 +43,7 @@ There are several ways to install python; however, the easiest way, with the mos
 
 - Installing on [Windows][2]
 - Installing on [macOS][3]
-- Installing on [Linunx][4]
+- Installing on [Linux][4]
 - [Updating from older versions][5]
 
 
