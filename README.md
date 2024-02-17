@@ -4,7 +4,7 @@ All tutorials can be run in [Google Colab](https://research.google.com/colaborat
 
 If you are unfamiliar with Python and Programming have a look at the [Google Colab Lectures for Starting in Python](#colab-lectures-for-starting-in-python) and the [Python Tutorials](#tutorials). 
 
-If you want to run the tutorials locally be sure to have [Python installed](#installing-python) and follow the instructions for installing the necessary dependencies ([GMAG](/GMAG/README.md#gmag-installation), [aurora-asi-lib](https://aurora-asi-lib.readthedocs.io/en/latest/get_started.html), themis-imager-readfile, rego-imager-readfile, trex-imager-readfile, etc.).
+If you want to run the tutorials locally be sure to have [Python installed](#installing-python) and follow the instructions for installing the necessary dependencies ([GMAG](/GMAG/README.md#gmag-installation), [aurora-asi-lib](https://aurora-asi-lib.readthedocs.io/en/latest/get_started.html), [themis-imager-readfile](https://github.com/ucalgary-aurora/themis-imager-readfile), [rego-imager-readfile](https://github.com/ucalgary-aurora/rego-imager-readfile), [trex-imager-readfile](https://github.com/ucalgary-aurora/trex-imager-readfile), etc.).
 
 ## Lectures
 
