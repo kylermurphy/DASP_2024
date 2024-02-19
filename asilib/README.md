@@ -1,8 +1,11 @@
 # 2024 DASP Student Workshop on aurora-asi-lib (asilib)
 
 Two useful links:
-- [Docs](https://aurora-asi-lib.readthedocs.io/en/latest/index.html) --- if you're struggling with exercises, take look at the examples and API reference
-- [GitHub](http://github.com/mshumko/aurora-asi-lib)
+- [asilib docs](https://aurora-asi-lib.readthedocs.io/en/latest/index.html) --- if you're struggling with exercises, take look at the examples and API reference
+- [asilib source code](http://github.com/mshumko/aurora-asi-lib)
+- [DASP Student Day Resources](https://github.com/kylermurphy/DASP_2024)
+- [asilib Colab notebook](https://colab.research.google.com/drive/14EqiaMibxc8KjQ3KKefipDSmS1lFpAat?usp=sharing)
+
 
 To avoid downloading ~5 GB of ASI data during the tutorial, we made have it downloaded it to a [Google Drive](https://drive.google.com/drive/folders/1E-ZEC_E_m-77DeF2DZPZuNSLzp0BqZCE?usp=drive_link) folder. Add it to your Google Drive before you run the Colab notebook.
 
