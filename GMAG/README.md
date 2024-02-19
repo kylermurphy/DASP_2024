@@ -19,8 +19,8 @@ The notebooks can be ran in either:
 
 Based on your preference click the Colab link below to open the tutorial in Colab or download the Local Notebook to run the tutorial locally.
 
-- Colab
-- Local
+- [Colab Notebook ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kylermurphy/DASP_2024/blob/main/GMAG/GMAG_DASP_Colab.ipynb) 
+- [Local Notebook](https://github.com/kylermurphy/DASP_2024/blob/main/GMAG/GMAG_DASP_Local.ipynb)
 
 ## GMAG Installation
 
