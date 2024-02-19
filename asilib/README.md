@@ -7,7 +7,7 @@ Two useful links:
 - [asilib Colab notebook](https://colab.research.google.com/drive/14EqiaMibxc8KjQ3KKefipDSmS1lFpAat?usp=sharing)
 
 
-To avoid downloading ~5 GB of ASI data during the tutorial, we made have it downloaded it to a [Google Drive](https://drive.google.com/drive/folders/1E-ZEC_E_m-77DeF2DZPZuNSLzp0BqZCE?usp=drive_link) folder. Add it to your Google Drive before you run the Colab notebook.
+To avoid downloading ~5 GB of ASI data during the tutorial, we made have it downloaded it to a [Google Drive](https://drive.google.com/drive/folders/1Gq-wYKa2FeW82puXq0LHIck8b2zeQd7W?usp=sharing) folder. Add it to your Google Drive before you run the Colab notebook.
 
 1. Add it to your personal Google Drive
 2. Create a shortcut of this folder in your main google Drive folder.
